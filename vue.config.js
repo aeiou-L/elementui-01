@@ -1,7 +1,7 @@
-modules.exprots = {
+module.exports = {
     devServer: {
         port: 6061,
-        hostl: 'localhost',
-        open: 'true'
+        host: 'localhost',
+        open: true
     }
 }
